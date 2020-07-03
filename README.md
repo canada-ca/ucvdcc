@@ -1,6 +1,6 @@
 # User-Centric Verifiable Digital Credentials Challenge
 
-[Official Notice](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
+[Official Notice of Challenge](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
 
 # Problem Statement
 This challenge is seeking a portable secure digital credentials (self-sovereign identity) solution held by individuals that can be independently, cryptographically and rapidly verified using emerging distributed ledger standards and an approach that may give rise to a global digital verification platform. For many contexts, ranging from applying for a job to transiting checkpoints for aviation security, paper documents remain the predominant way to prove key attributes about an individual, such as their name, date of birth, academic/professional qualifications, or security clearance. While these attributes might be presented in digital form, there are no widely adopted or standardized methods to issue and rapidly verify digital credentials across many different contexts. There exists no current capability to digitally verify without dependencies on centralized or low-latency network platforms (or both).
