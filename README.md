@@ -1,4 +1,4 @@
-# User-Centric Verifiable Digital Credential Challenge
+# User-Centric Verifiable Digital Credentials Challenge
 
 [Official Notice](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
 
