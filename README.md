@@ -1,5 +1,6 @@
 # ucvdg
-User-Centric Verifiable Digital Credential Challenge
+# User-Centric Verifiable Digital Credential Challenge
+
 [Official Notice](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
 
 # Problem Statement
