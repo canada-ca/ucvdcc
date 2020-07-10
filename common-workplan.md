@@ -48,6 +48,8 @@
       <li>Prepare a <b>Draft Standards-Based Approach Deliverable</b> that includes the following:
         <ul>
            <li>Review of understandings of technologies in relation to the challenge and use case (see Annex A1 Appendix 2 for list of standards and approaches)</li>
+           <li>Discussion of how solution meets the essential (mandatory) outcomes specified in the challenge</li>
+           <li>Discussion of how solution may meet the additional outcomes specified in the challenge.</li>
            <li>Proposed user acceptance approach in relation to use case</li>
            <li>Proposed design architectures and flows</li>
            <li>Proposed test plan for implementation and Interoperability</li>
@@ -74,12 +76,42 @@
            <li>Discuss findings and receive workshop feedback</li>
         </ul>
       </li>
+      <li>Demonstrate that their solution approach is standards-based interoperable (see Appendix 2 to Annex A1 for list of standards) in relation to:
+        <ul>
+           <li>Digital Wallets
+              <ol type="i">
+                 <li type="i">Credentials can be consumed by digital wallets created/tested in this challenge</li>
+                 <li type="i">Open standard wallets that are not part of the challenge participants can consume credentials offered by the Contractor</li>
+              </ol>
+           </li>
+           <li>Ledgers
+              <ol type="i">
+                 <li type="i">Ledger is compatible with the issue verifier services that are created/tested in this challenge</li>
+                 <li type="i">Participants’ solutions/prototypes can access and be compatible with their ledger</li>
+              </ol>
+           </li>
+           <li>Issuing and verification services
+              <ol type="i">
+                 <li type="i">Issued credentials can be consumed by digital wallets created/tested in this challenge</li>
+                 <li type="i">Issued credentials can be verified by components created/tested in this challenge</li>
+              </ol>
+           </li>
+        </ul>
+      </li>
+      <li> Provide advice and feedback on any issues relating to, but not limited to:
+        <ul>
+           <li>Standards (maturity, applicability, feasibility, etc.)</li>
+           <li>Technology</li>
+           <li>General design or architectural issues</li>
+        </ul>
+      </li>
       <li>Update Standards-Based Approach Deliverable
         <ul>
            <li>Updated deliverable based on incorporation workshop feedback</li>
         </ul>
       </li>
    </ol>
+   
 
 #### 6.4 Proof of Concept Development
    The Contractor must:
@@ -97,15 +129,15 @@
       </li>
    </ol>
 
-#### 6.5 Interoperability Demonstration Workshop
+#### 6.5 Technical Interoperability Demonstration Workshop
    The Contractor must:
    <ol type="a">
-      <li>Demonstrate Proof of Concept according to Standards-Based Approach Deliverable</li>
-      <li>Demonstrate overview of Implementation of Standards-Based Approach</li>
+      <li>Demonstrate Proof of Concept according to Finalized Standards-Based Approach Deliverable</li>
+      <li>Demonstrate overview of Implementation of Finalized Standards-Based Approach</li>
       <li>Demonstrate user acceptance approach in relation to use case</li>
       <li>Demonstrate design architectures and flows</li>
-      <li>Demonstrate Interoperability with workshop participants</li>
-      <li>Demonstrate findings and receive workshop feedback to incorporate into Final Proof of Concept Report</li>
+      <li>Demonstrate Interoperability with other workshop participants according to Finalized Standards-Based Approach Deliverable  </li>
+      <li>Discuss findings and receive workshop feedback to incorporate into Final Proof of Concept Report</li>
    </ol>
 
 #### 6.6 Prepare Final Proof of Concept Report
