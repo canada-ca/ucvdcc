@@ -1,6 +1,6 @@
 # Winning Vendors
 
-PSPC will confirmed that 6 companies can be engaged
+PSPC will confirm that 6 companies can be engaged
 
 | No. | Vendor Name                 | Primary Contact |
 | :-- | :-------------------------- | :-------------- |
