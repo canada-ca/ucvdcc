@@ -1,5 +1,5 @@
 # User-Centric Verifiable Digital Credentials Challenge
-![UCVDCC Logo](images/ucvdcc.jpg)
+![UCVDCC Logo](images/ucvdcc.png)
 
 ## Links to Handy References
 
