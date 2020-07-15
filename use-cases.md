@@ -8,6 +8,7 @@
   </tr>
   <tr>
     <td>
+    Vendor 1
     </td>
     <td>
       <b>Appending a Security Clearance to a Government Worker Digital Identity</b>
@@ -25,6 +26,7 @@
   </tr>
   <tr>
     <td>
+    Vendor 2
     </td>
     <td>
       <b>Issuance and Verification of Credentials for the Purposes of Cannabis-Related Interactions</b>
@@ -39,6 +41,7 @@
   </tr>
   <tr>
     <td>
+    Vendor 3
     </td>
     <td>
       <b>Opening a Bank Account for Businesses</b>
@@ -53,6 +56,7 @@
   </tr>
   <tr>
     <td>
+    Vendor 4
     </td>
     <td>
       <b>Rapidly Verify an Individual’s Ability to Perform a Job or Enter a Site without the Need for 3rd Party Verification</b>
@@ -67,6 +71,7 @@
   </tr>
   <tr>
     <td>
+    Vendor 5
     </td>
     <td>
       <b>Illustration of how a Decentralized Record of Employment System could be Implemented for Employment Verification</b>
@@ -81,6 +86,7 @@
   </tr>
   <tr>
     <td>
+    Vendor 6
     </td>
     <td>
       <b>Creation of a Foundational Identity (i.e., digital birth certificate) for the Purposes of Enabling Individual Enrolment into Programs and Services</b>
