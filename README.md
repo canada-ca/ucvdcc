@@ -1,4 +1,6 @@
 # User-Centric Verifiable Digital Credentials Challenge
+![UCVDCC Logo](images/ucvdcc.jpg)
+
 ## Links to Handy References
 
 * [Official Notice of Challenge](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
