@@ -44,5 +44,5 @@ Following are links to repositories which the vendors should be familiar with an
 10.[HTTP Signatures](https://tools.ietf.org/html/draft-ietf-httpbis-message-signatures-00)
 
 ## Trust over IP Foundation
-
-1. [Trust Over IP](https://github.com/trustoverip)
+1.  [Trust Over IP Web Site](https://trustoverip.org)
+1. [Trust Over IP GitHub Repo](https://github.com/trustoverip)
