@@ -45,4 +45,5 @@ Following are links to repositories which the vendors should be familiar with an
 
 ## Trust over IP Foundation
 1.  [Trust Over IP Web Site](https://trustoverip.org)
-1. [Trust Over IP GitHub Repo](https://github.com/trustoverip)
+2. [Trust Over IP GitHub Repo](https://github.com/trustoverip)
+3. Trust Over IP Interoperability Profile (TIP)
