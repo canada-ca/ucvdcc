@@ -28,6 +28,7 @@ Proposed solutions must:
     * Requirements specified in the Treasury Board Directive on Identity Management; and
     * Conformance Criteria specified in the Public Sector Profile of the Pan-Canadian Trust Framework.
 
+<sup><a name="fn-a">[a](#fnr-a)</a></sup>
 In relation to protecting privacy and identity of the user, the bidder is expected to demonstrate, in the proposal, knowledge and application of relevant controls as outlined in applicable guidance, including but not limited to CSE ITSP.30.31 published at https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.30.031v3-eng_0.pdf
 
 It is also expected that the bidder demonstrate, in the proposal, sufficient knowledge to enumerate relevant threat agents and mitigation approaches
