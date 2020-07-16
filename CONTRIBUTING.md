@@ -15,7 +15,7 @@
     3. Click on the "New Issue" button in the upper right of the screen.  
     ![Create a new issue](images/github-new-issues.png)
     
-    4. Select the "Get Started" button for the Comment template
+    4. Select the "Get Started" button for either the Comment Template or the Correction Template
     ![Select the comment template](images/github-comment-template.png)
 
     5. Provide a consise summery of the feedback being provided in the "Title" section  
