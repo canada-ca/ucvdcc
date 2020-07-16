@@ -41,9 +41,9 @@ Following are links to repositories which the vendors should be familiar with an
 7. [Linked Data Proofs](https://w3c-ccg.github.io/ld-proofs/)
 8. [Linked Data Signatures for JWS](https://github.com/w3c-ccg/lds-jws2020)
 9. [Ed25519 Crypto Suite](https://w3c-ccg.github.io/lds-ed25519-2018/)
-10.[HTTP Signatures](https://tools.ietf.org/html/draft-ietf-httpbis-message-signatures-00)
+10. [HTTP Signatures](https://tools.ietf.org/html/draft-ietf-httpbis-message-signatures-00)
 
 ## Trust over IP Foundation
-1.  [Trust Over IP Web Site](https://trustoverip.org)
+1. [Trust Over IP Web Site](https://trustoverip.org)
 2. [Trust Over IP GitHub Repo](https://github.com/trustoverip)
 3. Trust Over IP Interoperability Profile (TIP)
