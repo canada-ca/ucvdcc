@@ -47,3 +47,9 @@ Following are links to repositories which the vendors should be familiar with an
 1. [Trust Over IP Web Site](https://trustoverip.org)
 2. [Trust Over IP GitHub Repo](https://github.com/trustoverip)
 3. Trust Over IP Interoperability Profile (TIP)
+
+## Government of Canada
+
+1. [Directive on Identity Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577)
+2. [Sign In Canada GitHub Repo](https://github.com/sign-in-canada)
+3. [CATS-STAE GitHub Repo](https://github.com/canada-ca/CATS-STAE)
