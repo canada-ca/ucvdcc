@@ -34,7 +34,7 @@
       <br>
       The understanding of the challenge response is summarized from the proposal as follows:
       <ol>
-        <li>Demonstrate how cannabis licensees can use their credentials to coordinate directly with the federal supply chain, rather than relying on the many integrations currently required. Federal producers can trust credentials are granted by provincial/territorial authorities and sell product directly to licensees.</li>
+        <li>Demonstrate how cannabis licensees can use their government issued verifiable credentials to coordinate directly with the federal supply chain, rather than relying on the many integrations currently required. Federal producers can trust credentials are granted by provincial/territorial authorities and sell product directly to licensees.</li>
         <li>Demonstrate a digital credential issuance and verification Software as a Service (SaaS). Program and service delivery managers accept trusted digital identities as an alternative to in-person interactions by using a simple interface to configure verifying agents to request sufficient and appropriate attributes to uniquely identify individuals.</li>
       </ol>
     </td>
@@ -44,7 +44,7 @@
     Vendor 3
     </td>
     <td>
-      <b>Opening a Bank Account for Businesses</b>
+      <b>Opening a Bank Account for Businesses or Individuals</b>
       <br>
       <br>
       The understanding of the challenge response is summarized from the proposal as follows:
