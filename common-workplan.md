@@ -14,7 +14,7 @@
    *  **Phase 1: Proof of Concept**<br>
       Phase 1 is for the development and delivery of a proof of concept addressing a challenge articulated by a federal department or agency. The proof of concept will have to demonstrate the scientific and technical feasibility, and commercial potential, of a novel solution that addresses a federal department’s challenge. 
    *  **Phase 2: Prototype Development**<br>
-      Small businesses that successfully complete Phase 1 may receive a contract to develop their solution beyond the proof of concept with the goal of developing and delivering a prototype addressing a federal department’s challenge. The Government of Canada will retain the right to use the prototype and own the prototype deliverables at the end of the contract
+      Small businesses that successfully complete Phase 1 may receive a contract to develop their solution beyond the proof of concept with the goal of developing and delivering a prototype addressing a federal department’s challenge. 
 
 
 ### 4. Phase Addressed under this Statement of Work
@@ -52,7 +52,7 @@
            <li>Discussion of how solution may meet the additional outcomes specified in the challenge.</li>
            <li>Proposed user acceptance approach in relation to use case</li>
            <li>Proposed design architectures and flows</li>
-           <li>Proposed test plan for implementation and Interoperability</li>
+           <li>Proposed elements (test cases, etc.) for Interoperability Test Suite to prove interoperability between APIs for Resolution, Issuance and Verification, and Credential Formats.</li>
         </ul>
       </li>
       <li>If required, notify the Technical Authority of any of the following:
@@ -72,7 +72,7 @@
            <li>Present overview of Implementation of Standards-Based Approach</li>
            <li>Present user acceptance approach in relation to use case</li>
            <li>Present design architectures and flows</li>
-           <li>Review Interoperability with workshop participants</li>
+           <li>Review Interoperability Test Suite with Technical Authority and with workshop participants</li>
            <li>Discuss findings and receive workshop feedback</li>
         </ul>
       </li>
@@ -84,10 +84,10 @@
                  <li type="i">Open standard wallets that are not part of the challenge participants can consume credentials offered by the Contractor</li>
               </ol>
            </li>
-           <li>Ledgers
+           <li>Verifiable Data Registries
               <ol type="i">
-                 <li type="i">Ledger is compatible with the issue verifier services that are created/tested in this challenge</li>
-                 <li type="i">Participants’ solutions/prototypes can access and be compatible with their ledger</li>
+                 <li type="i">Including functions that a system might perform by mediating the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries, issuer public keys, etc.</li>
+                 <li type="i">Example of verifiable data registries could include trusted databases, decentralized databases, government ID databases, and distributed ledgers. There may  be more than one type of verifiable data registry utilized in an ecosystem</li>
               </ol>
            </li>
            <li>Issuing and verification services
@@ -134,6 +134,7 @@
    <ol type="a">
       <li>Demonstrate Proof of Concept according to Finalized Standards-Based Approach Deliverable</li>
       <li>Demonstrate overview of Implementation of Finalized Standards-Based Approach</li>
+      <li>Demonstrate successful passing of tests contained within Interoperability Test Suite</li>
       <li>Demonstrate user acceptance approach in relation to use case</li>
       <li>Demonstrate design architectures and flows</li>
       <li>Demonstrate Interoperability with other workshop participants according to Finalized Standards-Based Approach Deliverable  </li>
@@ -189,4 +190,5 @@
       <li>The report must incorporate key content from the Finalized Standards-Based Approach Deliverable and any changes resulting from the Technical Demonstration Workshop</li>
       <li>The report must summarize the research of and document the components that are required to support the proposed Proof of Concept</li>
       <li>Document the proposed proof-of-concept, include the characteristics, what is required to enable it, how it would be deployed and include associated performance metrics resulting from the tests of the proposed Proof of concept</li>
+      <li>d)	The Technical Authority will review with the Contractor and adjust if required, the Final Report instructions and template specified in Appendix 1</li>
    </ol>
