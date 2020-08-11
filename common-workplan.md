@@ -25,12 +25,9 @@
 ### 5. Objective
    The objective of this contract is to develop and deliver a Proof of Concept addressing the Challenge.
    
-   This Proof of Concept will demonstrate value for the use case of: **[Use Case Description Here]**
+   This Proof of Concept will demonstrate value for the following [use cases](use-cases.md)
    
-   The understanding of the challenge response is summarized from the proposal as follows:
-   1.  **Summary understanding point 1 from the proposal**
-   2.  **Summary understanding point 2 from the proposal**
-      
+         
 
 ### 6. Tasks
    The tasks are based on the Contractor’s proposal and adjusted to a common work plan outlined below.
