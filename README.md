@@ -5,7 +5,7 @@
 
 * [Official Notice of Challenge](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
 * [Use Cases](use-cases.md)
-* [Common Workplan](common-workplan.md]
+* [Common Workplan](common-workplan.md)
 * [Digital Ecosystem Requirements](Digital-Ecosystem.md)
 * [VC Examples Repository on Canada-ca](https://github.com/canada-ca/vc-examples-ca)
 
