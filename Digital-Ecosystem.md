@@ -59,6 +59,6 @@ Following are links to repositories which the vendors should be familiar with an
 2. [Sign In Canada GitHub Repo](https://github.com/sign-in-canada)
 3. [CATS-STAE GitHub Repo](https://github.com/canada-ca/CATS-STAE)
 
-## Europe
+## European Self-Sovereign Identity Framework (ESSIF)
 
 1. [Technical Specification (17) - Description of Trusted Issuer Referential/Ledger](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=262505886)
