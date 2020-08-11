@@ -43,7 +43,22 @@ Following are links to repositories which the vendors should be familiar with an
 9. [Ed25519 Crypto Suite](https://w3c-ccg.github.io/lds-ed25519-2018/)
 10. [HTTP Signatures](https://tools.ietf.org/html/draft-ietf-httpbis-message-signatures-00)
 
+## World Economic Forum
+
+1. [Digital Identity Specification Guidance](http://www3.weforum.org/docs/WEF_KTDI_Specifications_Guidance_2020.pdf)
+
+
 ## Trust over IP Foundation
 1. [Trust Over IP Web Site](https://trustoverip.org)
 2. [Trust Over IP GitHub Repo](https://github.com/trustoverip)
 3. Trust Over IP Interoperability Profile (TIP)
+
+## Government of Canada
+
+1. [Directive on Identity Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577)
+2. [Sign In Canada GitHub Repo](https://github.com/sign-in-canada)
+3. [CATS-STAE GitHub Repo](https://github.com/canada-ca/CATS-STAE)
+
+## European Self-Sovereign Identity Framework (ESSIF)
+
+1. [Technical Specification (17) - Description of Trusted Issuer Referential/Ledger](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=262505886)
