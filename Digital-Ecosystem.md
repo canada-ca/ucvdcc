@@ -2,7 +2,7 @@
 
 A desired outcome of this challenge is to contribute and add to the work to benefit and move the digital ecosystem as a whole forward. It is expected that this challenge will help inform and contribute to the following.
 
-A key goal is to align to an put into practice the concepts being developed in the **Public Sector Profile of the Pan-Canadian Trust Framework**. Documentation can be found at: [https://github.com/canada-ca/pctf-ccp](https://github.com/canada-ca/pctf-ccp)
+A key goal is to align to an put into practice the concepts being developed in the **Public Sector Profile of the Pan-Canadian Trust Framework**. Documentation can be found at: https://github.com/canada-ca/pctf-ccp
 
 Another key goal is to leverage the outcomes of the **DHS Silicon Valley Innovation Program (DHS SVIP)** which has been developing multi-platform interoperability between 7 independent platforms and 7 independent vendors.  A workshop conducted in spring 2020 has demonstrated interoperability across both multi-hop supply chain asset tracking and high value identity credential issuance and verification operational scenarios.
 
@@ -58,6 +58,9 @@ Following are links to repositories which the vendors should be familiar with an
 1. [Directive on Identity Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577)
 2. [Sign In Canada GitHub Repo](https://github.com/sign-in-canada)
 3. [CATS-STAE GitHub Repo](https://github.com/canada-ca/CATS-STAE)
+
+## US Dept of Education
+1. [Understanding Interoperability for Education Blockchains](https://docs.google.com/document/d/1emJ7YMmkbs1QlIRojVyJ4urA0VuUD_Z-3domGHXwmYE/edit?usp=sharing)
 
 ## European Self-Sovereign Identity Framework (ESSIF)
 
