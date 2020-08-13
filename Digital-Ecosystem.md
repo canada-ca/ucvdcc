@@ -2,15 +2,15 @@
 
 A desired outcome of this challenge is to contribute and add to the work to benefit and move the digital ecosystem as a whole forward. It is expected that this challenge will help inform and contribute to the following.
 
-A key goal is to align to an put into practice the concepts being developed in the **Public Sector Profile of the Pan-Canadian Trust Framework**. Documentation can be found at: https://github.com/canada-ca/pctf-ccp
+A key goal is to align to an put into practice the concepts being developed in the **Public Sector Profile of the Pan-Canadian Trust Framework**. Documentation can be found at: [https://github.com/canada-ca/pctf-ccp](https://github.com/canada-ca/pctf-ccp)
 
 Another key goal is to leverage the outcomes of the **DHS Silicon Valley Innovation Program (DHS SVIP)** which has been developing multi-platform interoperability between 7 independent platforms and 7 independent vendors.  A workshop conducted in spring 2020 has demonstrated interoperability across both multi-hop supply chain asset tracking and high value identity credential issuance and verification operational scenarios.
 
-Following are links to repositories which the vendors should be familiar with and be prepared to contribute to. 
+Following are links to repositories which the vendors should be familiar with and be prepared to contribute to.
 
 ## Trust Frameworks
 
-1. [Public Sector Profile of the Pan-Canadian Trust Framework](https://github.com/canada-ca/pctf-ccp) 
+1. [Public Sector Profile of the Pan-Canadian Trust Framework](https://github.com/canada-ca/pctf-ccp)
 
 ## Automated Test Suites and Related Artifacts Developed, Utilized and Available to the Community
 
