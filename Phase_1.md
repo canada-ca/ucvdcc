@@ -2,17 +2,17 @@
 
 ## Expected Results
 
-Expected results at the end of the **Phase 1 Proof of Concept contract are a TRL Level of 4**. 
+Expected results at the end of the **Phase 1 Proof of Concept contract are a TRL Level of 4**.
 *	**Short Definition**: Component(s)/subsystem(s) and/or process validation in a laboratory environment.
 *	**Description**: Basic technological components are integrated to establish that they will work together.
 *	**Examples of Activities**: Activities include integration of "ad hoc" hardware in the laboratory.
 
 A grid that provides examples of what those TRL levels mean: <br>
-https://www.ic.gc.ca/eic/site/101.nsf/eng/00077.html
+[https://www.ic.gc.ca/eic/site/101.nsf/eng/00077.html](https://www.ic.gc.ca/eic/site/101.nsf/eng/00077.html)
 
 Ensure that the proposed supplier’s project plan makes sense is something that you could manage, keeping in mind that we need to be able to exercise FAA’s Section 34 – Certification that the goods and services have been received as contracted so that we can issue payment in accordance with Section 33.
 
-Consider that PSPC recommends a maximum of 6-7 deliverables to make it easier to manage given that the contract is only for 6 months. 
+Consider that PSPC recommends a maximum of 6-7 deliverables to make it easier to manage given that the contract is only for 6 months.
 
 We should also consider an earlier delivery of the first draft Final Report so that we can comment and or get the supplier to clarify and finalize the Final Report. You will note that I noted a guidance of 2 pages for deliverables (guidance that I borrowed from an example from DND) (except for the final deliverable which is prescribed by PSPC) so that the supplier can invest more time and effort working on their prototype than writing reports. I have however asked of the suppliers that they document their hypothesis, testing parameters and results so that those can be included as appendix to the Final Report as this would provide The Crown with information as to what was tested and the results.
 

@@ -7,14 +7,14 @@
 
 ### 2. Introduction
    The Innovative Solutions Canada Program (ISC) is designed to support the development of early-stage, pre-commercial innovations by small businesses that have no more than 499 employees and demonstrate the capacity to develop an innovative solution to a federal department or agency challenge.
-   
-   
+
+
 ### 3. Program Background
-   The ISC program is a multi-stage program that seeks solutions to challenges that start at the earliest level of technology development. Phase 1 targets proposed solutions starting at technology readiness levels (TRLs) 1-4 (inclusive), while Phase 2 is meant to further advance the TRL of the innovation. 
+   The ISC program is a multi-stage program that seeks solutions to challenges that start at the earliest level of technology development. Phase 1 targets proposed solutions starting at technology readiness levels (TRLs) 1-4 (inclusive), while Phase 2 is meant to further advance the TRL of the innovation.
    *  **Phase 1: Proof of Concept**<br>
-      Phase 1 is for the development and delivery of a proof of concept addressing a challenge articulated by a federal department or agency. The proof of concept will have to demonstrate the scientific and technical feasibility, and commercial potential, of a novel solution that addresses a federal department’s challenge. 
+      Phase 1 is for the development and delivery of a proof of concept addressing a challenge articulated by a federal department or agency. The proof of concept will have to demonstrate the scientific and technical feasibility, and commercial potential, of a novel solution that addresses a federal department’s challenge.
    *  **Phase 2: Prototype Development**<br>
-      Small businesses that successfully complete Phase 1 may receive a contract to develop their solution beyond the proof of concept with the goal of developing and delivering a prototype addressing a federal department’s challenge. 
+      Small businesses that successfully complete Phase 1 may receive a contract to develop their solution beyond the proof of concept with the goal of developing and delivering a prototype addressing a federal department’s challenge.
 
 
 ### 4. Phase Addressed under this Statement of Work
@@ -24,10 +24,10 @@
 
 ### 5. Objective
    The objective of this contract is to develop and deliver a Proof of Concept addressing the Challenge.
-   
+
    This Proof of Concept will demonstrate value for the following [use cases](use-cases.md)
-   
-         
+
+
 
 ### 6. Tasks
    The tasks are based on the Contractor’s proposal and adjusted to a common work plan outlined below.
@@ -108,7 +108,7 @@
         </ul>
       </li>
    </ol>
-   
+
 
 #### 6.4 Proof of Concept Development
    The Contractor must:
@@ -182,10 +182,10 @@
    </ol>
 
 #### 7.6 Deliverables for Task 6.6
-   The Contractor must provide the Technical Authority a **Final Proof of Concept Report**, using the template provided at Appendix 1 to Annex A1. 
+   The Contractor must provide the Technical Authority a **Final Proof of Concept Report**, using the template provided at Appendix 1 to Annex A1.
    <ol type="a">
       <li>The report must incorporate key content from the Finalized Standards-Based Approach Deliverable and any changes resulting from the Technical Demonstration Workshop</li>
       <li>The report must summarize the research of and document the components that are required to support the proposed Proof of Concept</li>
       <li>Document the proposed proof-of-concept, include the characteristics, what is required to enable it, how it would be deployed and include associated performance metrics resulting from the tests of the proposed Proof of concept</li>
-      <li>d)	The Technical Authority will review with the Contractor and adjust if required, the Final Report instructions and template specified in Appendix 1</li>
+      <li>The Technical Authority will review with the Contractor and adjust if required, the Final Report instructions and template specified in Appendix 1</li>
    </ol>
