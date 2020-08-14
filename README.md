@@ -8,6 +8,7 @@
 * [Involvement](involvment.md)
 * [Common Workplan](common-workplan.md)
 * [Digital Ecosystem Requirements](Digital-Ecosystem.md)
+* [Interoperability Test Suite](interop-test-suite.md)
 * [VC Examples Repository on Canada-ca](https://github.com/canada-ca/vc-examples-ca)
 
 # Problem Statement
