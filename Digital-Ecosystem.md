@@ -59,8 +59,9 @@ Following are links to repositories which the vendors should be familiar with an
 2. [Sign In Canada GitHub Repo](https://github.com/sign-in-canada)
 3. [CATS-STAE GitHub Repo](https://github.com/canada-ca/CATS-STAE)
 
-## US Dept of Education
+## United States
 1. [Understanding Interoperability for Education Blockchains](https://docs.google.com/document/d/1emJ7YMmkbs1QlIRojVyJ4urA0VuUD_Z-3domGHXwmYE/edit?usp=sharing)
+2. [LER](https://lerhub.org/g/bqCgme2fQxDbgJ6D7)
 
 ## European Self-Sovereign Identity Framework (ESSIF)
 
