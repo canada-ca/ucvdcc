@@ -63,6 +63,14 @@ Following are links to repositories which the vendors should be familiar with an
 1. [Understanding Interoperability for Education Blockchains](https://docs.google.com/document/d/1emJ7YMmkbs1QlIRojVyJ4urA0VuUD_Z-3domGHXwmYE/edit?usp=sharing)
 2. [Learning and Employment Records Resource Hub](https://lerhub.org/g/bqCgme2fQxDbgJ6D7)
 
+## Germany
+
+1. [Secure Digital Identities - Projects in the Competition Phase](https://www.digitale-technologien.de/DT/Navigation/EN/ProgrammeProjekte/AktuelleTechnologieprogramme/Sichere_Digitale_Identitaeten/Projekte_Wettbewerbsphase/projekte_wettbewerbsphase.html)
+
 ## European Self-Sovereign Identity Framework (ESSIF)
 
 1. [Technical Specification (17) - Description of Trusted Issuer Referential/Ledger](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=262505886)
+
+## Vendors
+
+1. [Lissi - Identity Wallet](https://lissi.id/)
