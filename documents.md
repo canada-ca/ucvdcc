@@ -22,7 +22,7 @@ the following is a list of related documents available for download:
     <ul>
   {%- endunless %}
     <li>
-      <a href="{{item.path}}">{{item.name}}</a>
+      <a href="{{item.path | absolute_url}}">{{item.name}}</a>
     </li>
   {%- endif -%}
   {%- assign prevSize = arr.size -%}
