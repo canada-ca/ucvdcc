@@ -3,4 +3,4 @@ layout: default
 ---
 
 {% capture readmeMarkdown %}{% include_relative README.md %}{% endcapture %}
-{{ readmeMarkdown | markdownify }}
+{{ readmeMarkdown | replace: ".md", ".html" | markdownify}}
