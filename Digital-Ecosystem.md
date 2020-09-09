@@ -63,6 +63,16 @@ Following are links to repositories which the vendors should be familiar with an
 1. [Understanding Interoperability for Education Blockchains](https://docs.google.com/document/d/1emJ7YMmkbs1QlIRojVyJ4urA0VuUD_Z-3domGHXwmYE/edit?usp=sharing)
 2. [Learning and Employment Records Resource Hub](https://lerhub.org/g/bqCgme2fQxDbgJ6D7)
 
+## Germany
+
+1. [Showcase secure digital identities](https://www.digitale-technologien.de/DT/Navigation/EN/ProgrammeProjekte/AktuelleTechnologieprogramme/Sichere_Digitale_Identitaeten/sichere_digitale_ident.html)
+2. [Description SSI for Germany (written in German)](https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/sdi-projekt_ssi.html)
+3. [Technical University of Berlin Press Release](https://www.snet.tu-berlin.de/menue/news/2020/2020_08_28_ssi_for_germany_consortium_starts_decentralized_identity_network/)
+
 ## European Self-Sovereign Identity Framework (ESSIF)
 
 1. [Technical Specification (17) - Description of Trusted Issuer Referential/Ledger](https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=262505886)
+
+## Vendors
+
+1. [Lissi - Identity Wallet](https://lissi.id/)
