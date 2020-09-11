@@ -29,6 +29,7 @@ Following are links to repositories which the vendors should be familiar with an
 1. [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 2. [W3C Decentralized Identifiers](https://w3c.github.io/did-core/)
 3. [W3C JSON-LD](https://www.w3.org/TR/json-ld11/)
+4. [DID Use Cases](https://www.w3.org/TR/did-use-cases/)  -  Section: [VC Ecosystem](https://www.w3.org/TR/did-use-cases/#vcEcosystem)
 
 ## Emerging Specifications Used
 
