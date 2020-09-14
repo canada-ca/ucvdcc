@@ -3,12 +3,12 @@
 
 <table>
   <tr>
-    <th>Vendor (To be announced)</th>
+    <th>Vendor</th>
     <th>Use Cases</th>
   </tr>
   <tr>
     <td>
-    Vendor 1
+      Bluink
     </td>
     <td>
       <b>Appending a Security Clearance to a Government Worker Digital Identity</b>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>
-    Vendor 2
+      Aviary Tech
     </td>
     <td>
       <b>Issuance and Verification of Credentials for the Purposes of Cannabis-Related Interactions</b>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>
-    Vendor 3
+      SecureKey
     </td>
     <td>
       <b>Opening a Bank Account for Businesses or Individuals</b>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>
-    Vendor 4
+      TerraHub
     </td>
     <td>
       <b>Rapidly Verify an Individual’s Ability to Perform a Job or Enter a Site without the Need for 3rd Party Verification</b>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>
-    Vendor 5
+      TrustScience
     </td>
     <td>
       <b>Illustration of how a Decentralized Record of Employment System could be Implemented for Employment Verification</b>
@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td>
-    Vendor 6
+      2Keys
     </td>
     <td>
       <b>Creation of a Foundational Identity (i.e., digital birth certificate) for the Purposes of Enabling Individual Enrolment into Programs and Services</b>
