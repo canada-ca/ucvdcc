@@ -11,10 +11,11 @@ The Innovative Solutions Canada Program (ISC) is designed to support the develop
 ### 3. Program Background
 
 The ISC program is a multi-stage program that seeks solutions to challenges that start at the earliest level of technology development. Phase 1 targets proposed solutions starting at technology readiness levels (TRLs) 1-4 (inclusive), while Phase 2 is meant to further advance the TRL of the innovation.
-*  **Phase 1: Proof of Concept**<br>
-   Phase 1 is for the development and delivery of a proof of concept addressing a challenge articulated by a federal department or agency. The proof of concept will have to demonstrate the scientific and technical feasibility, and commercial potential, of a novel solution that addresses a federal department’s challenge.
-*  **Phase 2: Prototype Development**<br>
-   Small businesses that successfully complete Phase 1 may receive a contract to develop their solution beyond the proof of concept with the goal of developing and delivering a prototype addressing a federal department’s challenge.
+
+* **Phase 1: Proof of Concept**<br>
+  Phase 1 is for the development and delivery of a proof of concept addressing a challenge articulated by a federal department or agency. The proof of concept will have to demonstrate the scientific and technical feasibility, and commercial potential, of a novel solution that addresses a federal department’s challenge.
+* **Phase 2: Prototype Development**<br>
+  Small businesses that successfully complete Phase 1 may receive a contract to develop their solution beyond the proof of concept with the goal of developing and delivering a prototype addressing a federal department’s challenge.
 
 ### 4. Phase Addressed under this Statement of Work
 

@@ -27,16 +27,16 @@ Proposed solutions must:
 1. Create User-centric Verifiable Digital Credentials able to operate on a national or global interoperable verification platform;
 2. Protect the privacy and identity of the user at all times<sup id="fnr-a">[a](#fn-a)</sup>;
 3. Incorporate the following emerging and/or mature specifications for interoperability that have been funded, tested and/or championed by the United States of America Department of Homeland Security:
-  * Decentralized Identifiers (Standards Development Organizations: World Wide Web Consortium (W3C) or Decentralized Identity Foundation),
-  * Verifiable Credentials (Standards Development Organization - W3C); and
-  * JavaScript Object Notation for Linked Data / JSON-LD (Standards Development Organization - W3C);
+   * Decentralized Identifiers (Standards Development Organizations: World Wide Web Consortium (W3C) or Decentralized Identity Foundation),
+   * Verifiable Credentials (Standards Development Organization - W3C); and
+   * JavaScript Object Notation for Linked Data / JSON-LD (Standards Development Organization - W3C);
 4. Demonstrate the feasibility of the specifications described above in support of creating, transmitting and storing verifiable digital credentials using wallet or agent reference implementations. These reference implementations may include but not are limited to: Blockcerts, Hyperledger Indy Aries
 5. Adhere to applicable policy instruments, guidelines and frameworks, including but not limited to:
-  * Requirements specified in the Treasury Board Directive on Identity Management; and
-  * Conformance Criteria specified in the Public Sector Profile of the Pan-Canadian Trust Framework.
+   * Requirements specified in the Treasury Board Directive on Identity Management; and
+   * Conformance Criteria specified in the Public Sector Profile of the Pan-Canadian Trust Framework.
 
 <sup><a name="fn-a">[a](#fnr-a)</a></sup>
-In relation to protecting privacy and identity of the user, the bidder is expected to demonstrate, in the proposal, knowledge and application of relevant controls as outlined in applicable guidance, including but not limited to CSE ITSP.30.31 published at [https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.30.031v3-eng_0.pdf](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.30.031v3-eng_0.pdf)
+In relation to protecting privacy and identity of the user, the bidder is expected to demonstrate, in the proposal, knowledge and application of relevant controls as outlined in applicable guidance, including but not limited to CSE ITSP.30.31 published at [https://www.cse-cst.gc.ca](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.30.031v3-eng_0.pdf)
 
 It is also expected that the bidder demonstrate, in the proposal, sufficient knowledge to enumerate relevant threat agents and mitigation approaches
 
@@ -49,8 +49,8 @@ Proposed solutions should:
 3. Give relying trusted third parties the ability to verify any record independently, in independent fashion, for free and independent of any software vendor or issuing institution. Relying parties can easily verify any digital credential through widely available technology such as a web browser or a mobile phone. Verification is based on open and interoperable approaches.
 4. Provide leading-edge digital credential security to enable the global trust economy that are cryptographically signed thus enabling third parties to verify their provenance and ownership.
 5. Demonstrate the components of self-sovereign identity:
-  * decentralized and portable;
-  * demonstrated control of attributes; and independence from a centralized registry, identity provider, or certificate authority.
+   * decentralized and portable;
+   * demonstrated control of attributes; and independence from a centralized registry, identity provider, or certificate authority.
 6. Demonstrate multiple partnerships and interoperability with other companies within verifiable credential ecosystem.
 
 ## Background and Context
