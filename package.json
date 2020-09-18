@@ -1,0 +1,21 @@
+{
+  "name": "User-Centric-Verifiable-Digital-Credentials-Challenge",
+  "description": "This challenge is seeking a portable secure digital credentials solution held by individuals that can be independently, cryptographically and rapidly verified.",
+  "main": "index.js",
+  "scripts": {
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "test": "npm run lint && npm run vnu-jar && npm run link-check",
+    "vnu-jar": "java -Xss4m -jar node_modules/vnu-jar/build/dist/vnu.jar --errors-only --skip-non-html --filterfile .vnurc --no-langdetect _site/"
+  },
+  "author": "canada-ca",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "glob": "^7.1.6",
+    "markdown-link-check": "^3.8.0",
+    "markdownlint-cli": "^0.22.0",
+    "vnu-jar": "^20.3.16"
+  },
+  "dependencies": {}
+}

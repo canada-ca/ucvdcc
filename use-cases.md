@@ -1,5 +1,4 @@
-## Vendor Use Cases
-
+# Vendor Use Cases
 
 <table>
   <tr>

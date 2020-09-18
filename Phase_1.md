@@ -3,9 +3,10 @@
 ## Expected Results
 
 Expected results at the end of the **Phase 1 Proof of Concept contract are a TRL Level of 4**.
-*	**Short Definition**: Component(s)/subsystem(s) and/or process validation in a laboratory environment.
-*	**Description**: Basic technological components are integrated to establish that they will work together.
-*	**Examples of Activities**: Activities include integration of "ad hoc" hardware in the laboratory.
+
+* **Short Definition**: Component(s)/subsystem(s) and/or process validation in a laboratory environment.
+* **Description**: Basic technological components are integrated to establish that they will work together.
+* **Examples of Activities**: Activities include integration of "ad hoc" hardware in the laboratory.
 
 A grid that provides examples of what those TRL levels mean: <br>
 [https://www.ic.gc.ca/eic/site/101.nsf/eng/00077.html](https://www.ic.gc.ca/eic/site/101.nsf/eng/00077.html)
