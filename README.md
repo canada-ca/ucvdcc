@@ -54,6 +54,7 @@ Proposed solutions should:
 6. Demonstrate multiple partnerships and interoperability with other companies within verifiable credential ecosystem.
 
 ## Background and Context
+
 This challenge intends to determine the feasibility and characteristics of developing a national or global interoperable verification platform that can be used to independently verify digital credentials issued by a dynamic set of trusted issuers, and used by a broad and diverse population of users. This can be tested in a context, such as aviation security where there are many actors and authorities operating across many organizational and geographical boundaries.
 
 Building on these standards, the goal is to prove that a decentralized, interoperable digital verification ecosystem can be built that can be used by many independent issuers, operators, and most importantly users, by means of open-source libraries and standards-based capabilities. In order for a new technology to gain adoption, it must be made accessible through easy-to-use and widely available software and ubiquitous infrastructure such as Blockchain, Distributed Ledger Technology (DLTs) and Self-Sovereign Identity (SSI). A government could potentially leverage these and develop a ubiquitous infrastructure with enhanced transparency and auditing of public service operations, greater visibility into multi-party business operations, and automation of paper-based processes to improve delivery of services to organizations and citizens.
