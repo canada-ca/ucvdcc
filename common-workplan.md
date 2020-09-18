@@ -35,7 +35,7 @@ The tasks are based on the Contractor’s proposal and adjusted to a common work
 #### 6.1 Project Kick-Off
 
 The Contractor must:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Develop a <b>Detailed Project Plan</b> that elaborates the tasks outlined Section 6 in relation to the use case and understanding in Section 5 and the Contractor’s proposal</li>
   <li>Participate in a project kick-off meeting with the Technical Authority to establish and confirm project and meeting expectations</li>
 </ol>
@@ -43,7 +43,7 @@ The Contractor must:
 #### 6.2 Development of Standards-Based Approach
 
 The Contractor must:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Prepare a <b>Draft Standards-Based Approach Deliverable</b> that includes the following:
     <ul>
        <li>Review of understandings of technologies in relation to the challenge and use case (see Annex A1 Appendix 2 for list of standards and approaches)</li>
@@ -64,7 +64,7 @@ The Contractor must:
 #### 6.3 Technical Review Workshop
 
 The Contractor must:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Participate in a Technical Review Workshop (estimated to be 1 workday)
     <ul>
       <li>Actively engage with partners and stakeholders</li>
@@ -78,21 +78,21 @@ The Contractor must:
   <li>Demonstrate that their solution approach is standards-based interoperable (see Appendix 2 to Annex A1 for list of standards) in relation to:
     <ul>
       <li>Digital Wallets
-        <ol type="i">
-          <li type="i">Credentials can be consumed by digital wallets created/tested in this challenge</li>
-          <li type="i">Open standard wallets that are not part of the challenge participants can consume credentials offered by the Contractor</li>
+        <ol style="list-style-type: lower-roman;">
+          <li>Credentials can be consumed by digital wallets created/tested in this challenge</li>
+          <li>Open standard wallets that are not part of the challenge participants can consume credentials offered by the Contractor</li>
         </ol>
       </li>
       <li>Verifiable Data Registries
-        <ol type="i">
-          <li type="i">Including functions that a system might perform by mediating the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries, issuer public keys, etc.</li>
-          <li type="i">Example of verifiable data registries could include trusted databases, decentralized databases, government ID databases, and distributed ledgers. There may  be more than one type of verifiable data registry utilized in an ecosystem</li>
+        <ol style="list-style-type: lower-roman;">
+          <li>Including functions that a system might perform by mediating the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries, issuer public keys, etc.</li>
+          <li>Example of verifiable data registries could include trusted databases, decentralized databases, government ID databases, and distributed ledgers. There may  be more than one type of verifiable data registry utilized in an ecosystem</li>
         </ol>
       </li>
       <li>Issuing and verification services
-        <ol type="i">
-           <li type="i">Issued credentials can be consumed by digital wallets created/tested in this challenge</li>
-           <li type="i">Issued credentials can be verified by components created/tested in this challenge</li>
+        <ol style="list-style-type: lower-roman;">
+           <li>Issued credentials can be consumed by digital wallets created/tested in this challenge</li>
+           <li>Issued credentials can be verified by components created/tested in this challenge</li>
         </ol>
       </li>
     </ul>
@@ -114,7 +114,7 @@ The Contractor must:
 #### 6.4 Proof of Concept Development
 
 The Contractor must:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Develop Proof of Concept according to Finalized Standards-Based Approach Deliverable
     <ul>
        <li>Implement Proof of Concept for live demonstration in workshop</li>
@@ -131,7 +131,7 @@ The Contractor must:
 #### 6.5 Technical Interoperability Demonstration Workshop
 
 The Contractor must:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Demonstrate Proof of Concept according to Finalized Standards-Based Approach Deliverable</li>
   <li>Demonstrate overview of Implementation of Finalized Standards-Based Approach</li>
   <li>Demonstrate successful passing of tests contained within Interoperability Test Suite</li>
@@ -144,7 +144,7 @@ The Contractor must:
 #### 6.6 Prepare Final Proof of Concept Report
 
 The Contractor must:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Prepare a <b>Final Proof of Concept Report</b> using the template provided at “Attachment 1 to Annex A1”. All Phase 1 performance metrics must be included</li>
 </ol>
 
@@ -153,14 +153,14 @@ The Contractor must:
 #### 7.1 Deliverables for Task 6.1
 
 The Contractor must provide the Technical Authority a Detailed Project Plan that includes:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>An estimation and elaboration of the tasks outlined Section 6 in relation to the Contractor’s proposal</li>
 </ol>
 
 #### 7.2 Deliverables for Task 6.2
 
 The Contractor must provide the Technical Authority a **Draft Standards-Based Approach Deliverable** that includes:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Review of understandings of technologies in relation to the challenge and use case</li>
   <li>Proposed user acceptance approach in relation to use case</li>
   <li>Proposed design architectures and flows</li>
@@ -170,14 +170,14 @@ The Contractor must provide the Technical Authority a **Draft Standards-Based Ap
 #### 7.3 Deliverables for Task 6.3
 
 The Contractor must provide the Technical Authority an **Updated Standards-Based Approach Deliverable** that:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Incorporates the findings and outcomes of the Technical Workshop</li>
 </ol>
 
 #### 7.4 Deliverables for Task 6.4
 
 The Contractor must provide the Technical Authority with a **Finalized Standards-Based Approach Deliverable** that additionally includes:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Considerations, changes required, or issues identified during proof of concept development</li>
   <li>Requirements necessary for technical workshop demonstration (software, hardware, environment, configuration, installation, etc.)</li>
 </ol>
@@ -185,14 +185,14 @@ The Contractor must provide the Technical Authority with a **Finalized Standards
 #### 7.5 Deliverables for Task 6.5
 
 The Contractor must demonstrate to the Technical Authority with a **Working Proof of Concept Demonstration** that:
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>Technically demonstrates what is documented in the <b>Finalized Standards-Based Approach Deliverable</b></li>
 </ol>
 
 #### 7.6 Deliverables for Task 6.6
 
 The Contractor must provide the Technical Authority a **Final Proof of Concept Report**, using the template provided at Appendix 1 to Annex A1.
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
   <li>The report must incorporate key content from the Finalized Standards-Based Approach Deliverable and any changes resulting from the Technical Demonstration Workshop</li>
   <li>The report must summarize the research of and document the components that are required to support the proposed Proof of Concept</li>
   <li>Document the proposed proof-of-concept, include the characteristics, what is required to enable it, how it would be deployed and include associated performance metrics resulting from the tests of the proposed Proof of concept</li>
