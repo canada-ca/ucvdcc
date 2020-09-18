@@ -26,6 +26,7 @@ Following are links to repositories which the vendors should be familiar with an
 2. [Verifiable Credential Verifier HTTP API](https://w3c-ccg.github.io/vc-verifier-http-api/index.html)
 
 ## W3C Standards or Standards Track Specifications Used
+
 1. [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 2. [W3C Decentralized Identifiers](https://w3c.github.io/did-core/)
 3. [W3C JSON-LD](https://www.w3.org/TR/json-ld11/)
@@ -36,7 +37,7 @@ Following are links to repositories which the vendors should be familiar with an
 1. [Did:key Method](https://w3c-ccg.github.io/did-method-key/)
 2. [Verifiable Credential Issuer API](https://w3c-ccg.github.io/vc-issuer-http-api/index.html)
 3. [Verifiable Credential HTTP Verifier API](https://w3c-ccg.github.io/vc-verifier-http-api/index.html)
-4. [Secure Data Store (Encrypted Data Vaults) ](https://identity.foundation/secure-data-store/)
+4. [Secure Data Store (Encrypted Data Vaults)](https://identity.foundation/secure-data-store/)
 5. [WebKMS](https://w3c-ccg.github.io/webkms/)
 6. [Universal Resolver](https://github.com/decentralized-identity/universal-resolver/blob/master/README.md)
 7. [Linked Data Proofs](https://w3c-ccg.github.io/ld-proofs/)
@@ -48,8 +49,8 @@ Following are links to repositories which the vendors should be familiar with an
 
 1. [Digital Identity Specification Guidance](http://www3.weforum.org/docs/WEF_KTDI_Specifications_Guidance_2020.pdf)
 
-
 ## Trust over IP Foundation
+
 1. [Trust Over IP Web Site](https://trustoverip.org)
 2. [Trust Over IP GitHub Repo](https://github.com/trustoverip)
 3. Trust Over IP Interoperability Profile (TIP)
@@ -61,6 +62,7 @@ Following are links to repositories which the vendors should be familiar with an
 3. [CATS-STAE GitHub Repo](https://github.com/canada-ca/CATS-STAE)
 
 ## United States
+
 1. [Understanding Interoperability for Education Blockchains](https://docs.google.com/document/d/1emJ7YMmkbs1QlIRojVyJ4urA0VuUD_Z-3domGHXwmYE/edit?usp=sharing)
 2. [Learning and Employment Records Resource Hub](https://lerhub.org/g/bqCgme2fQxDbgJ6D7)
 

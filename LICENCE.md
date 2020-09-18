@@ -1,21 +1,22 @@
+<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD024 -->
 # Open Government Licence - Canada
 
 Copyright (c) 2018 Government of Canada - Gouvernement du Canada
-<!-- markdownlint-disable MD034 -->
+
 https://open.canada.ca/en/open-government-licence-canada
 
-<!-- markdownlint-disable MD025 -->
-
 # Licence du gouvernement ouvert – Canada
-
-<!-- markdownlint-enable MD025 -->
 
 Copyright (c) 2018 Gouvernement du Canada - Government of Canada
 
 https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada
+<!-- markdownlint-enable MD024 -->
+<!-- markdownlint-enable MD025 -->
 <!-- markdownlint-enable MD034 -->
 
-# Open Government Licence - Canada
+## Open Government Licence - Canada
 
 You are encouraged to use the Information that is available under this licence with only a few conditions.
 
@@ -65,7 +66,7 @@ means the natural or legal person, or body of persons corporate or incorporate, 
 Versioning
 This is version 2.0 of the Open Government Licence – Canada. The Information Provider may make changes to the terms of this licence from time to time and issue a new version of the licence. Your use of the Information will be governed by the terms of the licence in force as of the date you accessed the information.
 
-# Licence du gouvernement ouvert – Canada
+## Licence du gouvernement ouvert – Canada
 
 Nous vous encourageons à utiliser l'Information offerte en vertu de la présente licence, sous réserve de quelques conditions.
 
