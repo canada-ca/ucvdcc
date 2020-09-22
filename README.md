@@ -2,6 +2,12 @@
 
 ![UCVDCC Logo](images/ucvdcc.png)
 
+## Kick-Off Meeting 
+* [Kick-Off Presentation September 17, 2020](https://docs.google.com/presentation/d/1bSTkPtbN0DqwtRFPQ-3djEIb8Ghw7rsVdYV0ikvUksg/edit?usp=sharing)
+* [Recorded Video of Kick-Off Meeting September 17, 2020](https://youtu.be/PqEDSCZGHwY)
+
+
+
 ## Links to Handy References
 
 * [Official Notice of Challenge](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
