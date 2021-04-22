@@ -2,6 +2,11 @@
 
 ![UCVDCC Logo](images/ucvdcc.png)
 
+## Public Demo Day April 21, 2021
+
+* [Recorded Video of Public Demo Day April 21, 2020](https://youtu.be/644kUC9Uw-g)
+* [Final Presentations](./)
+
 ## Kick-Off Meeting
 
 * [Kick-Off Presentation September 17, 2020](https://docs.google.com/presentation/d/1bSTkPtbN0DqwtRFPQ-3djEIb8Ghw7rsVdYV0ikvUksg/edit?usp=sharing)
