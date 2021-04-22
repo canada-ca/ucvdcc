@@ -5,7 +5,7 @@
 ## Public Demo Day April 21, 2021
 
 * [Recorded Video of Public Demo Day April 21, 2020](https://youtu.be/644kUC9Uw-g)
-* [Final Presentations](./)
+* [Final Presentations Folder](./final)
 
 ## Kick-Off Meeting
 
