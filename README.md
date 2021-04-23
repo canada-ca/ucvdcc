@@ -10,7 +10,7 @@ The conclusion of Phase 1 of the project. Below are the links to the video and p
 
 ## Kick-Off Meeting
 
-* [Kick-Off Presentation September 17, 2020](https://docs.google.com/presentation/d/1bSTkPtbN0DqwtRFPQ-3djEIb8Ghw7rsVdYV0ikvUksg/edit?usp=sharing)
+* [Kick-Off Presentation September 17, 2020](./docs/UCVDCC-KICKOFF-MEETING.pdf)
 * [Recorded Video of Kick-Off Meeting September 17, 2020](https://youtu.be/PqEDSCZGHwY)
 
 ## Links to Handy References
