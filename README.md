@@ -5,7 +5,7 @@
 ## Public Demo Day April 21, 2021
 The conclusion of Phase 1 of the project. Below are the links to the video and presentations.
 
-* [Recorded Video of Public Demo Day April 21, 2020](https://youtu.be/644kUC9Uw-g)
+* [Recorded Video of Public Demo Day April 21, 2021](https://youtu.be/644kUC9Uw-g)
 * [Final Presentations Folder](./final)
 
 ## Kick-Off Meeting
